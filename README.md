@@ -1,6 +1,4 @@
-# ♻️ Smart Waste Segregation System
-
-<h1 align="center">Smart Waste Segregation System</h1>
+<h1 align="center">♻️ Smart Waste Segregation System</h1>
 
 <p align="center">
   <em>An ESP32-based embedded system for automated classification and segregation of wet, dry, and metallic waste.</em>
